@@ -59,8 +59,3 @@ app/src/main/java/com/spaakkai/reflexgame/
 ```
 Output APK will be at `app/build/outputs/apk/release/app-release.apk`.
 
-## Possible extensions (not implemented, noted for completeness)
-
-- Sound effects / haptic feedback on hit vs. miss
-- Combo multiplier for consecutive hits
-- Leaderboard synced to a backend (would reuse the same Supabase project as Task 2)
